@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+ <h1>html basics</h1>
+ <h1>heading</h1>
+ <p>paragraph</p>
+ <p>line break</p>
+ <br>
+<p title="hi!!!">hover your mouse over this paragraph and you will see the title</p>
+ <a href="https://www.w3schools.com/html/default.asp">link</a><br>
+ <br>
+ <img src="dont_have_a_pic_with_me.jpg" alt="image">
+ <p><strong>bold text</strong></p>
+ <p style="color:blue;">change color</p>
+ <p style="font-size:50px">change size</p>
+ <p style="font-family:'Courier New'">change font</p>
+
+  </head>
+  <body>
+    <script src="script.js"></script>
+  </body>
+</html>html>
